@@ -1,0 +1,15 @@
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\ConsoleApp1\bin\Debug\net6.0\InputOutputConsole.exe
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\ConsoleApp1\bin\Debug\net6.0\InputOutputConsole.deps.json
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\ConsoleApp1\bin\Debug\net6.0\InputOutputConsole.runtimeconfig.json
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\ConsoleApp1\bin\Debug\net6.0\InputOutputConsole.dll
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\ConsoleApp1\bin\Debug\net6.0\InputOutputConsole.pdb
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\ConsoleApp1\obj\Debug\net6.0\InputOutputConsole.csproj.AssemblyReference.cache
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\ConsoleApp1\obj\Debug\net6.0\InputOutputConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\ConsoleApp1\obj\Debug\net6.0\InputOutputConsole.AssemblyInfoInputs.cache
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\ConsoleApp1\obj\Debug\net6.0\InputOutputConsole.AssemblyInfo.cs
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\ConsoleApp1\obj\Debug\net6.0\InputOutputConsole.csproj.CoreCompileInputs.cache
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\ConsoleApp1\obj\Debug\net6.0\InputOutputConsole.dll
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\ConsoleApp1\obj\Debug\net6.0\refint\InputOutputConsole.dll
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\ConsoleApp1\obj\Debug\net6.0\InputOutputConsole.pdb
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\ConsoleApp1\obj\Debug\net6.0\InputOutputConsole.genruntimeconfig.cache
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\ConsoleApp1\obj\Debug\net6.0\ref\InputOutputConsole.dll

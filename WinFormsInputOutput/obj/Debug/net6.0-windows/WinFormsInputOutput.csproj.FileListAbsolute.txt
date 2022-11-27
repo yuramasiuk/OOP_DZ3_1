@@ -1,0 +1,17 @@
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\WinFormsInputOutput\bin\Debug\net6.0-windows\WinFormsInputOutput.exe
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\WinFormsInputOutput\bin\Debug\net6.0-windows\WinFormsInputOutput.deps.json
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\WinFormsInputOutput\bin\Debug\net6.0-windows\WinFormsInputOutput.runtimeconfig.json
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\WinFormsInputOutput\bin\Debug\net6.0-windows\WinFormsInputOutput.dll
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\WinFormsInputOutput\bin\Debug\net6.0-windows\WinFormsInputOutput.pdb
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\WinFormsInputOutput\obj\Debug\net6.0-windows\WinFormsInputOutput.csproj.AssemblyReference.cache
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\WinFormsInputOutput\obj\Debug\net6.0-windows\WinFormsInputOutput.Form1.resources
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\WinFormsInputOutput\obj\Debug\net6.0-windows\WinFormsInputOutput.csproj.GenerateResource.cache
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\WinFormsInputOutput\obj\Debug\net6.0-windows\WinFormsInputOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\WinFormsInputOutput\obj\Debug\net6.0-windows\WinFormsInputOutput.AssemblyInfoInputs.cache
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\WinFormsInputOutput\obj\Debug\net6.0-windows\WinFormsInputOutput.AssemblyInfo.cs
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\WinFormsInputOutput\obj\Debug\net6.0-windows\WinFormsInputOutput.csproj.CoreCompileInputs.cache
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\WinFormsInputOutput\obj\Debug\net6.0-windows\WinFormsInputOutput.dll
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\WinFormsInputOutput\obj\Debug\net6.0-windows\refint\WinFormsInputOutput.dll
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\WinFormsInputOutput\obj\Debug\net6.0-windows\WinFormsInputOutput.pdb
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\WinFormsInputOutput\obj\Debug\net6.0-windows\WinFormsInputOutput.genruntimeconfig.cache
+C:\Yura\KNU\OOP\ДЗ 3\Input-Output\WinFormsInputOutput\obj\Debug\net6.0-windows\ref\WinFormsInputOutput.dll
